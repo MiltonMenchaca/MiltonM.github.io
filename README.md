@@ -1,60 +1,50 @@
-# Chirpy Starter
+# MiltonM Blog  
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Welcome to my personal blog! 
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## About Me  
+I am a Web Development student currently pursuing a degree in Software Engineering. I am passionate about cybersecurity and always eager to learn new technologies to enhance my skills in both development and security. My goal is to build innovative and secure digital solutions while exploring the ever-evolving world of cybersecurity.  
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## Blog Content  
+This blog contains articles, tutorials, and research related to:  
+- Web Development  
+- Software Engineering  
+- Cybersecurity  
+- Programming Tips & Tricks  
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## Live Website 🌐  
+You can visit my blog here:  
+ **[MiltonM Blog](https://miltonmenchaca.github.io/)**  
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+## How to Run the Blog Locally  
+If you want to run this blog on your local machine, follow these steps:  
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/MiltonMenchaca/MiltonM.github.io.git
+   ```
+2. Navigate to the project folder:  
+   ```sh
+   cd MiltonM.github.io
+   ```
+3. Install dependencies:  
+   ```sh
+   bundle install
+   ```
+4. Start the Jekyll server:  
+   ```sh
+   bundle exec jekyll serve
+   ```
+5. Open your browser and visit:  
+   ```
+   http://127.0.0.1:4000/
+   ```
 
-## Prerequisites
+## Contributing  
+Feel free to submit issues or pull requests if you want to contribute to this blog!  
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+## License  
+This project is licensed under the MIT License.  
 
-## Installation
+---
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
-
-Then clone it to your local machine and run:
-
-```console
-$ bundle
-```
-
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
