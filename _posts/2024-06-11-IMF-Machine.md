@@ -17,7 +17,7 @@ tags: [Vulnhub, Nmap, Python, sqlmap, Ghidra, Metasploit, Buffer  Overflow, SQLI
 
 -   [Prerequisites](#prerequisites)
 
--   [Summary](#Summary)
+-   [Summary](#summary)
 
 -   [Reconnaissance](#reconnaissance)
 
