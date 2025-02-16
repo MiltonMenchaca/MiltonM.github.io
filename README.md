@@ -14,7 +14,7 @@ This blog contains articles, tutorials, and research related to:
 
 ## Live Website 🌐  
 You can visit my blog here:  
- **[MiltonM Blog](https://miltonmenchaca.github.io/)**  
+ **[MiltonM Blog](https://miltonmenchaca.github.io/MiltonM.github.io/)**  
 
 ## How to Run the Blog Locally  
 If you want to run this blog on your local machine, follow these steps:  
