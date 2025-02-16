@@ -71,3 +71,9 @@ tags: [c2, infrastructure, aws, Mythic, Nginx, Docker, Payload]
    docker --version
    ```   
 4.   
+
+
+
+Primero tenemos que crearnos una cuenta en amazon.com:
+https://aws.amazon.com/es/ec2/
+
